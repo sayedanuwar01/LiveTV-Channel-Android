@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "775064148023",
+    "firebase_url": "https://flix-tv-72461.firebaseio.com",
+    "project_id": "flix-tv-72461",
+    "storage_bucket": "flix-tv-72461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775064148023:android:829cfd667037b1906087b2",
+        "android_client_info": {
+          "package_name": "com.pvkflixtv.theneflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775064148023-h3m38q6t8kea2mjt1pofjqt0mqanj691.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pvkflixtv.theneflix",
+            "certificate_hash": "61e2e192646bcda4242e8cc3cc72c10357ebb076"
+          }
+        },
+        {
+          "client_id": "775064148023-mq468ovhqnvfq7bs5icgqlt3omjmrclq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAavxnlElEg9lEZo0_ui3eDjChIwhG0Pjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775064148023-mq468ovhqnvfq7bs5icgqlt3omjmrclq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
